@@ -1,2 +1,2 @@
-# nicesite
+# thisisnicesite.fun
  burynice
